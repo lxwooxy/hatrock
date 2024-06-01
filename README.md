@@ -17,12 +17,18 @@ My motivation for this task is to explore how computational methods can be used 
 ### Task Breakdown
 In 10 weeks:
 [ ] Create 3D models in Blender
+
 [ ] Set up a Unity3D environment for automating rendering
+
 [ ] Writing C# scripts to animate the physics of the scenes
+
 [ ] Writing C# scripts to record the scenes from a set number of viewpoints
+
 [ ] Writing C# scripts to automate swapping out individual variables of the scene (eg. instead of having to manually select Object A and B)
+
 [ ] Hosting the resulting work on Github Pages
 
 Future work:
 [ ] Testing data on deep neural networks that claim to understand intuitive physics
+
 [ ] Finetuning model architecture to generalize to the new data
