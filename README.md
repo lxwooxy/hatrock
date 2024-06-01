@@ -16,7 +16,7 @@ My motivation for this task is to explore how computational methods can be used 
 
 ### Task Breakdown
 In 10 weeks:
-[ ] Create 3D models in Blender
+- [ ] Create 3D models in Blender
 
 [ ] Set up a Unity3D environment for automating rendering
 
