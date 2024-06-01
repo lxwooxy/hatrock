@@ -1,8 +1,8 @@
-# hatrock
+# hatrock (aka capstone)
 
 ## Generating data for scientific research
 
-### The quick spiel
+### The Quick Spiel
 Generating visual data to be used for training machine learning models in intuitive physics.
 
 ### Details
