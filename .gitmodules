@@ -4,3 +4,6 @@
 [submodule "unity"]
 	path = unity
 	url = https://github.com/lxwooxy/iamashape
+[submodule "mental-sim"]
+	path = mental-sim
+	url = https://github.com/lxwooxy/mental-sim
